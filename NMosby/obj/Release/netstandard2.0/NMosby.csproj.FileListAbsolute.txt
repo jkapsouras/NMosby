@@ -1,0 +1,8 @@
+/Users/sansoft/Documents/Projects/NMosbyGit/NMosby/bin/Release/netstandard2.0/NMosby.deps.json
+/Users/sansoft/Documents/Projects/NMosbyGit/NMosby/bin/Release/netstandard2.0/NMosby.dll
+/Users/sansoft/Documents/Projects/NMosbyGit/NMosby/bin/Release/netstandard2.0/NMosby.pdb
+/Users/sansoft/Documents/Projects/NMosbyGit/NMosby/obj/Release/netstandard2.0/NMosby.csproj.CoreCompileInputs.cache
+/Users/sansoft/Documents/Projects/NMosbyGit/NMosby/obj/Release/netstandard2.0/NMosby.AssemblyInfoInputs.cache
+/Users/sansoft/Documents/Projects/NMosbyGit/NMosby/obj/Release/netstandard2.0/NMosby.AssemblyInfo.cs
+/Users/sansoft/Documents/Projects/NMosbyGit/NMosby/obj/Release/netstandard2.0/NMosby.dll
+/Users/sansoft/Documents/Projects/NMosbyGit/NMosby/obj/Release/netstandard2.0/NMosby.pdb

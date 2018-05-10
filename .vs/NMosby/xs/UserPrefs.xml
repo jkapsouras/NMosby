@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NMosby/BasePresenter.cs">
+    <Files>
+      <File FileName="NMosby/BasePresenter.cs" Line="59" Column="42" />
+      <File FileName="NMosby/IBaseView.cs" Line="10" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NMosby" expanded="True">
+            <Node name="NMosby" expanded="True">
+              <Node name="BasePresenter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

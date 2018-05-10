@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Reactive;
+using System.Reactive.Concurrency;
 using System.Reactive.Disposables;
+using System.Reactive.Linq;
 using System.Reactive.Subjects;
+using System.Threading;
 
 namespace NMosby
 {
@@ -52,7 +55,10 @@ namespace NMosby
 		public void SubscribeViewState(IObservable<VS> state, Func<VS, Unit> render)
 		{
 			state.Subscribe(st => _viewState.OnNext(st)).DisposeWith(Disposables);
-			_viewState.Subscribe(st => render(st)).DisposeWith(Disposables);
+			_viewState
+				.SubscribeOn(View.BackgroundScheduler)
+				.ObserveOn(View.MainThread)
+				.Subscribe(st => render(st)).DisposeWith(Disposables);
 		}
 	}
 }
