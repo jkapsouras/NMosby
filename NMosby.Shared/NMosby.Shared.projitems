@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{33C20FCD-C156-4C5F-9F16-0832C6005C1D}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>NMosby</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)BasePresenter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IBaseView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IViewState.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ObservableExtensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)project.json" />
+  </ItemGroup>
+</Project>

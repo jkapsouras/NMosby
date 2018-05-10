@@ -9,10 +9,6 @@
     <RootNamespace>NMosby</RootNamespace>
     <AssemblyName>NMosby</AssemblyName>
     <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
-    <PackageId>NMosby</PackageId>
-    <PackageVersion>1.0.0</PackageVersion>
-    <Authors>sansoft</Authors>
-    <Description>NMosby</Description>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -30,14 +26,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BasePresenter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="IBaseView.cs" />
-    <Compile Include="IViewState.cs" />
-    <Compile Include="ObservableExtensions.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="project.json" />
-  </ItemGroup>
+  <Import Project="..\NMosby.Shared\NMosby.Shared.projitems" Label="Shared" Condition="Exists('..\NMosby.Shared\NMosby.Shared.projitems')" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
 </Project>
