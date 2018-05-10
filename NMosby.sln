@@ -1,15 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMosby", "NMosby\NMosby.csproj", "{53320A28-2F51-4190-8126-155DB02F363E}"
-EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "NMosby.Shared", "NMosby.Shared\NMosby.Shared.shproj", "{33C20FCD-C156-4C5F-9F16-0832C6005C1D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMosby.Android", "NMosby.Android\NMosby.Android.csproj", "{3D99EDBA-3D35-40D5-B521-34C432CE51AF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMosby.iOS", "NMosby.iOS\NMosby.iOS.csproj", "{C0FCB490-0CDF-4485-84CE-32C1F1B450F4}"
-EndProject
-Project("{5DD5E4FA-CB73-4610-85AB-557B54E96AA9}") = "NMosby.NuGet", "NMosby.NuGet\NMosby.NuGet.nuproj", "{82D7C530-5A0E-4E98-AF7D-035084F161C9}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NMosby", "NMosby\NMosby.csproj", "{BC3B298F-88F6-4DE6-9C8A-4B141A7F256A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,21 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53320A28-2F51-4190-8126-155DB02F363E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53320A28-2F51-4190-8126-155DB02F363E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53320A28-2F51-4190-8126-155DB02F363E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53320A28-2F51-4190-8126-155DB02F363E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D99EDBA-3D35-40D5-B521-34C432CE51AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D99EDBA-3D35-40D5-B521-34C432CE51AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D99EDBA-3D35-40D5-B521-34C432CE51AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D99EDBA-3D35-40D5-B521-34C432CE51AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0FCB490-0CDF-4485-84CE-32C1F1B450F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0FCB490-0CDF-4485-84CE-32C1F1B450F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0FCB490-0CDF-4485-84CE-32C1F1B450F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0FCB490-0CDF-4485-84CE-32C1F1B450F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{82D7C530-5A0E-4E98-AF7D-035084F161C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{82D7C530-5A0E-4E98-AF7D-035084F161C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{82D7C530-5A0E-4E98-AF7D-035084F161C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{82D7C530-5A0E-4E98-AF7D-035084F161C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3B298F-88F6-4DE6-9C8A-4B141A7F256A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3B298F-88F6-4DE6-9C8A-4B141A7F256A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3B298F-88F6-4DE6-9C8A-4B141A7F256A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3B298F-88F6-4DE6-9C8A-4B141A7F256A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDA640EF-D580-474E-8155-9248A38E0536}
 	EndGlobalSection
 EndGlobal

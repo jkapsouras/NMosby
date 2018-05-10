@@ -1,0 +1,17 @@
+D:\NMosbyTemp\NMosby\NMosby\bin\Debug\netstandard2.0\NMosby.deps.json
+D:\NMosbyTemp\NMosby\NMosby\bin\Debug\netstandard2.0\NMosby.dll
+D:\NMosbyTemp\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.csprojResolveAssemblyReference.cache
+D:\NMosbyTemp\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.csproj.CoreCompileInputs.cache
+D:\NMosbyTemp\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.AssemblyInfoInputs.cache
+D:\NMosbyTemp\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.AssemblyInfo.cs
+D:\NMosbyTemp\NMosby\NMosby\bin\Debug\netstandard2.0\NMosby.pdb
+D:\NMosbyTemp\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.dll
+D:\NMosbyTemp\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.pdb
+D:\NMosby\NMosby\bin\Debug\netstandard2.0\NMosby.deps.json
+D:\NMosby\NMosby\bin\Debug\netstandard2.0\NMosby.dll
+D:\NMosby\NMosby\bin\Debug\netstandard2.0\NMosby.pdb
+D:\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.csproj.CoreCompileInputs.cache
+D:\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.AssemblyInfoInputs.cache
+D:\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.AssemblyInfo.cs
+D:\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.dll
+D:\NMosby\NMosby\obj\Debug\netstandard2.0\NMosby.pdb
